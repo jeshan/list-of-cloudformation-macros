@@ -1,5 +1,7 @@
 # list-of-cloudformation-macros
 
+[tf-cfn-provider](https://github.com/iann0036/tf-cfn-provider) Makes every Terraform resource type available in CloudFormation
+
 [Boto3](https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services/CloudFormation/MacrosExamples/Boto3) Make arbitrary AWS api calls. Very powerful. Use it to work around some limitations like create SSM secure parameters in stacks.
 
 [PyPlate](https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services/CloudFormation/MacrosExamples/PyPlate) Run arbitrary python code in templates.
